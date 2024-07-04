@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link href="assets/img/favicon1.png" rel="icon">
+  <link href="assets/img/apple-touchicon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,600,600i,700,700i|Satisfy|Comic+Neue:300,300i,400,400i,700,700i" rel="stylesheet">
@@ -35,7 +35,7 @@
   <?php include 'topbar.php' ?>
   <!-- End Top Bar -->
 
-  <!-- ======= Header ======= -->
+  <!-- ======= Header ======= --> 
   <?php include 'header.php' ?>
   <!-- End Header -->
 
